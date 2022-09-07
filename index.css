@@ -52,17 +52,14 @@ div#crypto-top > span {
 div.right-corner {
     display: flex;
     flex-direction: column;
-    /* border: 1px red solid; */
 }
 
 div#weather-top {
     display: flex;
     align-items: center;
     height: 13vh;
-    /* border: 1px yellow solid; */
 }
 
 div#weather > p {
     margin-top:0;
-    /* border: 1px blue solid; */
 }
