@@ -57,8 +57,3 @@ navigator.geolocation.getCurrentPosition(position => {
         })
         .catch(err => console.error(err))
 });
-
-/**
- * Challenge: Try to lay out the weather similar to how
- * Momentum does it.
- */
