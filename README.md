@@ -1,5 +1,5 @@
 ## About Crypto Dashboard
 
-You will view your favorite crypto current price, 24 hours highest and lowest price in a dynamic nice wallpaper  
+You can add this as your chrome extension into your chrome browser. Whenever you open a new tab, you will view your favorite crypto price, 24 hours highest and lowest price in a dynamic nice wallpaper.
 
-~Happy Buidl ~
+~Happy Buidling ~
